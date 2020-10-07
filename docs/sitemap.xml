@@ -3,25 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://usazark.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://usazark.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://usazark.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://usazark.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://usazark.github.io/tags/</loc>
   </url>
   
 </urlset>
