@@ -5,6 +5,7 @@ paginate = 5
 title = "Example Site"
 disqusShortname = "hugo-theme-stack"            # Change it to your Disqus shortname before using
 DefaultContentLanguage = "en"                   # Theme i18n support
+publishDir = "docs"
 
 [permalinks]
     post = "/p/:slug/"
