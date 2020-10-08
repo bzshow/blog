@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>https://usazark.github.io/posts/test-chinese/</loc>
+    <loc>https://usazark.github.io/p/test-chinese/</loc>
     <lastmod>2020-10-07T21:18:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://usazark.github.io/posts/</loc>
+    <loc>https://usazark.github.io/post/</loc>
     <lastmod>2020-10-07T21:18:58+08:00</lastmod>
   </url>
   
@@ -28,12 +28,17 @@
   </url>
   
   <url>
-    <loc>https://usazark.github.io/posts/test-chinese/</loc>
+    <loc>https://usazark.github.io/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usazark.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usazark.github.io/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
