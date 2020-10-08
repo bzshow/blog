@@ -5,6 +5,7 @@
         <link>https://usazark.github.io/</link>
         <description>Recent content on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://usazark.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Wed, 07 Oct 2020 21:18:58 +0800</lastBuildDate><atom:link href="https://usazark.github.io/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
